@@ -119,7 +119,6 @@ Incluye:
 * Conexiones entre Manager y controlador  
 * Diagrama de plataformas y estaciones
 
-*(ver carpeta **PLANOS**)*
 
 ---
 
@@ -132,8 +131,6 @@ Incluye:
 * Cinta y estaciones  
 * Bandejas PR1, PR2, PR3 y PR4  
 * Circuito eléctrico
-
-*(ver carpeta **MULTIMEDIA**)*
 
 ---
 
@@ -151,13 +148,8 @@ Como parte de la **Práctica Profesional Supervisada** de Ingeniería Mecatróni
 
 ## Carpetas del Proyecto
 
-* **CODIGO:** Programas ACL → LOBBY, GETXX, PUTXX, PR1–PR4  
-* **MULTIMEDIA:** Fotos y videos  
-* **PLANOS:** Esquemáticos eléctricos  
-* **DATASHEET:** Hojas técnicas  
 * **INFORMES:** Informe PPS en PDF / Word  
 
 ---
 
-> Este README replica la estructura de la plantilla original y adapta integralmente el informe “Puesta a Punto y Mejora del Brazo Robótico SCORBOT EX IX”.
 
