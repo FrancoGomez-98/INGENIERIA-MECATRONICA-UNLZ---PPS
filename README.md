@@ -1,9 +1,14 @@
 ![Logo Institucional](https://github.com/JonatanBogadoUNLZ/PPS-Jonatan-Bogado/blob/9952aac097aca83a1aadfc26679fc7ec57369d82/LOGO%20AZUL%20HORIZONTAL%20-%20fondo%20transparente.png)
 
-# Universidad Nacional de Lomas de Zamora - Facultad de Ingeniería
+<h2 align="center">CIM Robótica - FI-UNLZ – Práctica Profesional Supervisada</h2>
 
-**PUESTA A PUNTO Y MEJORA DEL BRAZO ROBÓTICO SCORBOT EX IX**  
-_CIM Robótica - FI-UNLZ – Práctica Profesional Supervisada_
+<h1 align="center" style="font-size: 3em;">PUESTA A PUNTO Y MEJORA DEL BRAZO ROBÓTICO SCORBOT EX IX</h1>
+
+<br>
+
+<h4 align="center">Este README fué adaptado del archivo PDF "PPS- ROBOTICA", ante cualquier duda, referirse al mismo.</h4>
+
+<br>
 
 ## Introducción / Objetivo
 
@@ -26,8 +31,7 @@ Se busca:
 - [Listado de Componentes](#listado-de-componentes)  
 - [Esquemáticos](#esquemáticos)  
 - [Fotos / Videos](#fotos--videos)  
-- [Autor](#autor)  
-- [Carpetas del Proyecto](#carpetas-del-proyecto)
+- [Autores](#autores)  
 
 ---
 
@@ -174,17 +178,22 @@ A continuación se presentan los esquemáticos y diagramas de diseño que explic
 
 - **Esquemático 1: Circuito eléctrico del controlador**
   - Diagrama del cableado entre el tablero “Manager”, el controlador del SCORBOT y el gripper.  
-  - Archivo sugerido: `PLANOS/circuito_controlador_cim2.pdf`
+
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/3.1.jpg" alt="Circuito Eléctrico" width="35%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/3.2.png" alt="Plano Circuito Eléctrico" width="35%"/>
+  <br>
+  <em>Circuito Eléctrico</em>
+</p>
 
 - **Esquemático 2: Layout de la estación de trabajo 2**
-  - Ubicación del brazo, Linear Slidebase, cinta transportadora y plataformas de trabajo.  
-  - Archivo sugerido: `PLANOS/layout_estacion2.png`
-
-- **Esquemático 3: Diagrama de I/O (DIN/DOUT)**
-  - Asignación de entradas y salidas utilizadas por los programas LOBBY, PR1–PR4, GETXX, PUTXX.  
-  - Archivo sugerido: `PLANOS/mapa_io_scorbot_cim2.pdf`
-
-*(En esta sección puedes subir imágenes o enlaces a los archivos relevantes en la carpeta `PLANOS`.)*
+  - Ubicación del brazo, Linear Slidebase, cinta transportadora y plataformas de trabajo.
+   
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/2.jpg" alt="Layout" width="70%"/>
+  <br>
+  <em>Estación de trabajo</em>
+</p>
 
 ---
 
@@ -192,51 +201,57 @@ A continuación se presentan los esquemáticos y diagramas de diseño que explic
 
 Aquí puedes visualizar imágenes y videos que muestran el proceso de desarrollo y la implementación final del proyecto (archivos en la carpeta **MULTIMEDIA**):
 
-- **Foto 1:** Brazo robótico SCORBOT EX IX con la Linear Slidebase en la estación 2.  
-  - `MULTIMEDIA/scorbot_estacion2.jpg`
+- **Foto 1:** Brazo robótico SCORBOT EX IX con la Linear Slidebase en la estación 2.
 
-- **Foto 2:** Teach Pendant y controlador ESHED ROBOTEC.  
-  - `MULTIMEDIA/teach_y_controlador.jpg`
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/1.1.jpg" alt="SCORBOT EX IX" width="35%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/1.3.jpg" alt="Linear Slidebase" width="35%"/>
+  <br>
+  <em>SCORBOT EX IX y Linear Slidebase</em>
+</p>
 
-- **Foto 3:** Tablero “Manager” y línea CIM completa.  
-  - `MULTIMEDIA/manager_linea_cim.jpg`
+- **Foto 2:** Teach Pendant y controlador ESHED ROBOTEC.
+  
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/1.2.jpg" alt="Teach Pendant" width="35%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/1.4.jpg" alt="Controlador" width="35%"/>
+  <br>
+  <em>Teach Pendant y Controlador ESHED ROBOTEC</em>
+</p>
+
+- **Foto 3:** Tablero “Manager”.
+  
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/1.5.jpg" alt="Tablero Manager" width="50%"/>
+  <br>
+  <em>Tablero Manager</em>
+</p>
 
 - **Foto 4:** Bandejas utilizadas en los programas PR1, PR2, PR3 y PR4 antes de la ejecución.  
-  - `MULTIMEDIA/bandejas_pr1_pr4.jpg`
 
-- **Video 1:** Ejecución del programa LOBBY y respuesta del sistema ante una orden de trabajo.  
-  - `MULTIMEDIA/video_lobby_estacion2.mp4`
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/4.1.jpg" alt="Bandeja PR1" width="20%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/4.2.jpg" alt="Bandeja PR2" width="20%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/4.3.jpg" alt="Bandeja PR3" width="20%"/>
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/4.4.jpg" alt="Bandeja PR4" width="20%"/>
+  <br>
+  <em>Bandejas Utilizadas</em>
+</p>
 
-*(Actualiza las rutas según los nombres reales de tus archivos en `MULTIMEDIA`.)*
+- **Video 1:** Ejecució del programa de ensamblaje en conjunto con otras estaciones.  
+
+<p align="center">
+  <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/Ensamblaje.gif" alt="Video Ensamblaje" width="50%"/>
+  <br>
+  <em>Video Ensamblaje</em>
+</p>
 
 ---
 
-## Autor
+## Autores
 
 Este proyecto fue realizado por los estudiantes de **Ingeniería Mecatrónica** de la Facultad de Ingeniería de la Universidad Nacional de Lomas de Zamora, en el marco de la **Práctica Profesional Supervisada**:
 
 - **Audisio, Juan Pablo** – DNI 43.671.648  
 - **Gomez Franco, Gabriel** – DNI 41.451.020  
-- **Reyna, Valentín** – DNI 43.798.677  
-
----
-
-## Carpetas del Proyecto
-
-A continuación se detallan las carpetas que estructuran este repositorio:
-
-- **CODIGO**  
-  Contiene el código fuente utilizado en este proyecto: programas ACL (LOBBY, PR1–PR4, GETXX, PUTXX, HOMES, SHUTD, subrutinas de trabajo, etc.).
-
-- **MULTIMEDIA**  
-  Imágenes y videos del desarrollo y funcionamiento del proyecto, incluyendo fotos de la estación, del SCORBOT y demostraciones de los programas.
-
-- **PLANOS**  
-  Esquemáticos y diagramas de los sistemas implementados: circuito eléctrico del controlador, mapa de I/O, layout de la estación de trabajo, etc.
-
-- **DATASHEET**  
-  Hojas de datos y especificaciones de los componentes utilizados (SCORBOT EX IX, Linear Slidebase, controlador, gripper, etc.).
-
-- **INFORMES**  
-  Archivos relacionados con la planificación y documentación del proyecto: informe de PPS en PDF, cronogramas, diagramas de Gantt, manual de uso de la estación, documentación técnica adicional.
-
+- **Reyna, Valentín Julián** – DNI 43.798.677  
