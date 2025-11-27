@@ -253,5 +253,5 @@ Aquí puedes visualizar imágenes y videos que muestran el proceso de desarrollo
 Este proyecto fue realizado por los estudiantes de **Ingeniería Mecatrónica** de la Facultad de Ingeniería de la Universidad Nacional de Lomas de Zamora, en el marco de la **Práctica Profesional Supervisada**:
 
 - **Audisio, Juan Pablo** – DNI 43.671.648  
-- **Gomez Franco, Gabriel** – DNI 41.451.020  
+- **Gomez, Franco Gabriel** – DNI 41.451.020  
 - **Reyna, Valentín Julián** – DNI 43.798.677  
