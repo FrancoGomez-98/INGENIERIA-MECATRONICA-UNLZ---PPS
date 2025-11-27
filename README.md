@@ -6,7 +6,7 @@
 
 <br>
 
-<h4 align="center">Este README fué adaptado del archivo PDF "PPS- ROBOTICA", ante cualquier duda, referirse al mismo.</h4>
+<h4 align="center"><i>Este README fué adaptado del archivo PDF "PPS- ROBOTICA", ante cualquier duda, referirse al mismo.</i></h4>
 
 <br>
 
