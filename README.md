@@ -104,7 +104,6 @@ Para utilizar este proyecto en la estación de trabajo N.º 2, se recomienda seg
    - Esperar a que el programa termine y recién entonces apagar el controlador y el resto del sistema.  
    - No hacerlo puede causar bloqueo de motores en el próximo encendido.
 
-> **Importante:** para detalles, ejemplos de código y diagramas, consultar las carpetas **CODIGO**, **PLANOS** e **INFORMES** de este repositorio.
 
 ---
 
