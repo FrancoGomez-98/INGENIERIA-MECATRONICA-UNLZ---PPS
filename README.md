@@ -238,7 +238,7 @@ Aquí puedes visualizar imágenes y videos que muestran el proceso de desarrollo
   <em>Bandejas Utilizadas</em>
 </p>
 
-- **Video 1:** Ejecució del programa de ensamblaje en conjunto con otras estaciones.  
+- **Video 1:** Ejecución del programa de ensamblaje en conjunto con otras estaciones.  
 
 <p align="center">
   <img src="https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS/blob/main/Imagenes/Ensamblaje.gif" alt="Video Ensamblaje" width="50%"/>
